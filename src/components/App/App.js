@@ -5,7 +5,7 @@ function App() {
   //routing
   return (
     <div className="App">
-      <h1>Siema siema</h1>
+      <h1>Siema!</h1>
     </div>
   );
 }
